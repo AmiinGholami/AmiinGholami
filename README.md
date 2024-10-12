@@ -20,6 +20,7 @@ My interests span financial and social domains, where I aim to apply data-driven
 ## Get in touch ☕
 
 [Send an E-mail to Amin](gholamiamiin@gmail.com)
+
 [Follow me on Kaggle](https://www.kaggle.com/amiingholami)
 
 
